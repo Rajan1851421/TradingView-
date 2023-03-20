@@ -1,0 +1,26 @@
+body{
+  
+   
+    background-image: url('https://www.istockphoto.com/photo/financial-and-technical-data-analysis-graph-showing-search-findings-gm877278518-244819152?phrase=share%20market');
+    background-position: center;
+   
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    
+}
+body{
+    background-image: linear-gradient(
+    to bottom,
+    rgba(255, 255, 0, 0.5),
+    rgba(0, 0, 255, 0.5)
+  ), url("https://media.istockphoto.com/id/877278518/photo/financial-and-technical-data-analysis-graph-showing-search-findings.jpg?s=612x612&w=0&k=20&c=Q1nvRHrrXrblNOvnHVpXg_03csn9Xoh3Lz8CDoPS7DU=");
+  background-position: center;   
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+
+}
+
+
+
